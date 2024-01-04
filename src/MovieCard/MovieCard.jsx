@@ -4,7 +4,7 @@ function MovieCard(props) {
   return (
     <>
       <div className="movie-card-container">
-        <img className="movie-img" src={props.poster_path}/>
+        <img src={props.poster_path} onClick={props.onClick}/>
       </div>
     </>
   );
