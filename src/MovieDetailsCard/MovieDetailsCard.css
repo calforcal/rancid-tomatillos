@@ -1,0 +1,10 @@
+.selected-movie-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 231, 231, .5);
+  width: 50%;
+  height: 50%;
+  margin: 10% auto;
+  border-radius: 25px;
+}
