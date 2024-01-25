@@ -1,5 +1,5 @@
 body {
-  background-image: url("./assets/snake.jpeg");
+  background-image: linear-gradient(rgb(76, 6, 142), black);
 }
 
 .movie-cards-container {
